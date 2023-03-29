@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tabel-siswa{
+    border-collapse: collapse;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+#tabel-siswa h3 {
+    font-size: 32px;
+}
