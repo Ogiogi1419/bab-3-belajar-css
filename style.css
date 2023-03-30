@@ -1,8 +1,23 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background: green;
+    color: whitesmoke;
 }
 #tabel-siswa{
     border-collapse: collapse;
+    background-image: url(background.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    border: 1px solid white;
+    margin: auto;
+}
+
+#tabel-siswa h3 {
+    font-size: 32px;
+}
+
+#tabel-siswa td {
+    padding: 20px;
 }
 
 img {
@@ -13,8 +28,4 @@ img {
 a {
     color: red;
     text-decoration: none;
-}
-
-#tabel-siswa h3 {
-    font-size: 32px;
 }
